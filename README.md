@@ -38,6 +38,3 @@ Code created with Python 3.7.4 on Spyder 3.3.6
 
 ##### Python Script:
   * bikeshare.py
-
-##### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
