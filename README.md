@@ -29,11 +29,14 @@ Code created with Python 3.7.4 on Spyder 3.3.6
 
 
 ## Files used
-Data files:
+
+##### Data files:
   * chicago.csv
   * new_york_city.csv
   * washington.csv
-Python Script:
+
+
+##### Python Script:
   * bikeshare.py
 
 ##### Credits
