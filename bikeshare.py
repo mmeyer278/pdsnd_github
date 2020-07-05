@@ -349,15 +349,8 @@ def main():
 
 
         elif inspect_data == 'no':
-            # print separator line for well arranged output
-            print('-'*80)
-            print('ANALYSIS OF BIKE SHARE DATA')
-            print('-'*80)
-            # analyze data
-            time_stats(df)
-            station_stats(df)
-            trip_duration_stats(df)
-            user_stats(df)
+            print_results(df)
+
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
